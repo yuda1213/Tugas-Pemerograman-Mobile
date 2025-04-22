@@ -85,11 +85,9 @@
 #### Tampilan Awal 
 ![Tampilan Awal](https://github.com/yuda1213/Tugas-Pemerograman-Mobile/blob/main/Screenshot%20(25).png)
 
-#### Tampilan Memilih Waktu Antrian
-![Tampilan Waktu Antrian](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar2.jpg)
+#### Tampilan Memilih tanggal 
+![Tampilan tanggal](https://github.com/yuda1213/Tugas-Pemerograman-Mobile/blob/main/Screenshot%20(26).png)
 
-#### Tampilan Pop-Up Konfirmasi Booking
-![Tampilan Pop-Up Booking](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar3.jpg)
 
 ---
 
