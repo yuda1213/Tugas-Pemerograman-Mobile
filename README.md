@@ -79,11 +79,11 @@
 
 ### Tampilan Aplikasi AntriKeun.id
 
-#### Tampilan Header
+#### Tampilan output
 ![Tampilan output](https://github.com/yuda1213/Tugas-Pemerograman-Mobile/blob/main/Screenshot%20(24).png)
 
-#### Tampilan Awal Aplikasi
-![Tampilan Awal](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar1.jpg)
+#### Tampilan Awal 
+![Tampilan Awal](https://github.com/yuda1213/Tugas-Pemerograman-Mobile/blob/main/Screenshot%20(25).png)
 
 #### Tampilan Memilih Waktu Antrian
 ![Tampilan Waktu Antrian](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar2.jpg)
